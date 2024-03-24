@@ -1,7 +1,6 @@
 import os
 import subprocess
 import tempfile
-import shutil
 from multiprocessing import Pool
 from tqdm import tqdm
 import argparse
